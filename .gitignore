@@ -1,0 +1,27 @@
+# Environment variables (CRITICAL - keeps your API keys private)
+.env
+.env.local
+.env.*.local
+# Virtual environment folders
+venv/
+env/
+.venv/
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+# OS files
+.DS_Store
+Thumbs.db
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
