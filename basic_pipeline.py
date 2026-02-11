@@ -26,7 +26,7 @@ if __name__ == "__main__":
     prompt = "What is your chocolate chip cookie recipe?"
     answer = generate_response(prompt)
 
-    with open("response.txt", "w") as file:
+    with open("response_BP.txt", "w") as file:
         file.write(answer)
         file.write("\n")
         file.write("-- End of Response --\n")

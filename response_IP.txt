@@ -1,0 +1,14 @@
+The document describes the ShareStats project, an initiative to develop an open-access item bank of statistics exercises for higher education, primarily in the social and behavioral sciences. The project, supported by the Dutch Ministry of Education, Culture, and Science, aims to provide a comprehensive repository of high-quality statistics practice materials in both Dutch and English. These materials are freely available under a Creative Commons License, allowing educators to export them to various learning management systems (LMS) like Canvas and Blackboard.
+
+The ShareStats item bank was created by a community of instructors from multiple Dutch universities. It consists of over 5000 exercises, categorized and quality-checked, to help students repeatedly practice and enhance their statistical knowledge. The development process involved reusing existing exercises, implementing a quality model, and using a taxonomy to classify topics. This taxonomy includes classifications by topic, type of exercise, software used, language, and levels of learning (statistical literacy, reasoning, and thinking).
+
+The project employs R/exams, a software tool that converts exercises into formats compatible with different LMSs. It also developed additional conversion functions for Dutch platforms like TestVision and Grasple. The item bank can be accessed via the ShareStats website and GitHub, where instructors can download and customize the materials.
+
+A significant aspect of the project is the establishment of a professional community of statistics instructors. This community played a crucial role in the development of the item bank, providing feedback and ensuring the quality and relevance of the materials. Regular meetings and workshops facilitated collaboration and exchange of ideas, contributing to the project's success.
+
+The project has been evaluated positively, with the item bank being actively used in participating universities. It has broadened the scope of available practice materials for students, enhancing their learning experiences. The ShareStats initiative also aligns with international educational policies advocating for open educational resources (OER), aiming to improve resource availability and encourage professional collaboration.
+
+Future plans include translating all items into both Dutch and English, developing more conversion functions, and creating instructional videos for various LMSs. The project team is also exploring opportunities to expand the item bank to cover more methodological topics.
+
+Overall, the ShareStats project provides a valuable resource for instructors and students, promoting open access to educational materials and fostering a collaborative educational community.
+-- End of Response --
